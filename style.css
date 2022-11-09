@@ -1,0 +1,33 @@
+QPushButton {
+    border-radius: 7px;
+    background: transparent;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: block;
+    background-color: #A8D8EA;
+    font-size: 13px;
+}
+
+QPushButton:hover {
+    background-color: #278cc2;
+    width: 50px;
+}
+
+AdressBar {
+    border-radius: 10px;
+    display: block;
+    background-color: #FDD9B5;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 13px;
+}
+
+#Toolbar {
+    background:#fff
+    border: none
+    border-bottom: 2px solid #ddd;
+}
